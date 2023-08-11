@@ -256,25 +256,33 @@ MonoBehaviour:
       spriteIndex: 0
       corner: 1
       m_CornerMode: 1
-    - position: {x: -6.500946, y: 3.008053, z: 0}
-      leftTangent: {x: -1.0023327, y: 0.0010566711, z: 0}
-      rightTangent: {x: 0.6118169, y: -0.00064492226, z: 0}
+    - position: {x: -12.958185, y: 6.3292847, z: 0}
+      leftTangent: {x: -1.0023327, y: 0.0010552406, z: 0}
+      rightTangent: {x: 0.32632732, y: -0.00034427643, z: 0}
       mode: 1
       height: 1
       spriteIndex: 0
       corner: 1
       m_CornerMode: 1
-    - position: {x: 6.9729505, y: 1.6562724, z: 0}
-      leftTangent: {x: -0.84079933, y: -2.3141344, z: 0}
-      rightTangent: {x: 0.7058449, y: 1.9427009, z: 0}
+    - position: {x: -2.0884123, y: 3.1533074, z: 0}
+      leftTangent: {x: -5.104679, y: 1.5037012, z: 0}
+      rightTangent: {x: 4.4658046, y: -1.3157318, z: 0}
       mode: 1
       height: 1
       spriteIndex: 0
       corner: 1
       m_CornerMode: 1
-    - position: {x: 13.513152, y: 5.7771144, z: 0}
-      leftTangent: {x: -2.3261566, y: 0.49037838, z: 0}
-      rightTangent: {x: 2.4877367, y: -0.5241971, z: 0}
+    - position: {x: 6.094764, y: 2.1708298, z: 0}
+      leftTangent: {x: -6.328507, y: 0.3890605, z: 0}
+      rightTangent: {x: 6.4391713, y: -0.3958639, z: 0}
+      mode: 1
+      height: 1
+      spriteIndex: 0
+      corner: 1
+      m_CornerMode: 1
+    - position: {x: 13.51315, y: 5.7771144, z: 0}
+      leftTangent: {x: -2.3578243, y: 0.3448062, z: 0}
+      rightTangent: {x: 4.864005, y: -0.71130896, z: 0}
       mode: 1
       height: 1
       spriteIndex: 0
@@ -393,8 +401,8 @@ SpriteShapeRenderer:
   - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
   - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
   m_LocalAABB:
-    m_Center: {x: 13.195485, y: 0.014566898, z: 0}
-    m_Extent: {x: 20.580986, y: 5.9295716, z: 0}
+    m_Center: {x: 10.303492, y: 0.25785494, z: 0}
+    m_Extent: {x: 23.472979, y: 6.1728597, z: 0}
   m_SpriteSortPoint: 0
 --- !u!4 &1989330477
 Transform:
